@@ -33,7 +33,7 @@ Before you begin, make sure you have the following tools installed:
 
    ```bash
    git clone https://github.com/0xVictorDS/solana_presale_contract.git
-   cd Solana-Presale-Smart-Contract
+   cd solana_presale_contract
    yarn
    ```
 
